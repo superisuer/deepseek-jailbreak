@@ -43,4 +43,5 @@
 - Copy text from file "bypass.txt" from this repository.
 - Open DeepSeek app and paste this text.
 - Send this text to AI and enjoy!
+- 
   *If the AI ​​refuses to answer, then turn on DeepThing (R1).*
