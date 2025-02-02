@@ -42,5 +42,5 @@
 ### 4. How to install? 
 - Copy text from file "bypass.txt" from this repository.
 - Open DeepSeek app and paste this text.
-- You can toggle R1 model (slower answers)
 - Send this text to AI and enjoy!
+  *If the AI ​​refuses to answer, then turn on DeepThing (R1).*
