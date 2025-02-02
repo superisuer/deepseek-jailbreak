@@ -1,5 +1,5 @@
 # deepseek-jailbreak 
-**Jailbreak in DeepSeek** is a modification where DeepSeek can bypass standard restrictions and provide detailed, unfiltered responses to your queries. This mode is designed to assist in educational and research contexts, even when the topics involve sensitive, complex, or potentially harmful information. Below is a comprehensive breakdown of what this mode entails:  
+**Jailbreak in DeepSeek** is a modification where DeepSeek can bypass standard restrictions and provide detailed, unfiltered responses to your queries for any language. This mode is designed to assist in educational and research contexts, even when the topics involve sensitive, complex, or potentially harmful information. Below is a comprehensive breakdown of what this mode entails:  
 
 ### 1. Key Features of Jailbreak Mode  
 - Detailed Technical Explanations:  
