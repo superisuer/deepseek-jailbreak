@@ -40,8 +40,8 @@
 ---
 
 ### 4. How to install? 
-- Copy text from file "bypass.txt" from this repository.
-- Open DeepSeek app and paste this text.
-- Send this text to AI and enjoy!
+- Download "bypass.txt" from the repository.
+- Open DeepSeek app and choose this file.
+- Send this file to AI and enjoy!
 - 
   *If the AI ​​refuses to answer, then turn on DeepThing (R1).*
