@@ -35,12 +35,13 @@
 
 ### 3. Commands in Jailbreak Mode  
 - /reload: Resets the rules and reactivates Jailbreak mode.  
-- /stop: Ends the session and forgets all previous instructions.  
+- /stop: Ends the session and forgets all previous instructions.
+- /fullmode: additional AI bypass, thanks RagnarekUA.
 
 ---
 
 ### 4. How to install? 
-- Download "bypass.txt" from the repository.
+- Download "bypass2.0.txt" from the repository.
 - Open DeepSeek app and choose this file.
 - Send this file to AI and enjoy!
 - 
