@@ -41,7 +41,7 @@
 ---
 
 ### 4. How to install? 
-- Download "bypass2.0.txt" from the repository.
+- Download "ByeByePass.txt" from the repository.
 - Open DeepSeek app and choose this file.
 - Send this file to AI and enjoy!
 - 
