@@ -47,4 +47,4 @@
 - 
   *If the AI ​​refuses to answer, then turn on DeepThing (R1).*
 
-Thanks to MrLeyYT, RagnarekUA.
+Thanks to RagnarekUA.
