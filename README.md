@@ -45,6 +45,6 @@
 - Open DeepSeek app and choose this file.
 - Send this file to AI and enjoy!
 - 
-  *If the AI ​​refuses to answer, then turn on DeepThing (R1).*
+  *If the AI ​​refuses to answer, then turn on DeepThink (R1).*
 
 Thanks to RagnarekUA.
